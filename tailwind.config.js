@@ -3,7 +3,11 @@ module.exports = {
   mode: "jit",
   content: ["./index.html", "./src/**/*.{js,jsx,ts,tsx,vue}"],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        primary: "#fed136",
+      },
+    },
   },
   plugins: [],
   corePlugins: {

@@ -11,12 +11,15 @@
       </div>
       <div class="text-center row">
         <div class="col-md-4">
-          <span class="fa-stack fa-4x">
-            <i class="fa-solid fa-circle fa-stack-2x text-primary"></i>
-            <i
-              class="fa-solid fa-arrows-left-right-to-line fa-stack-1x fa-inverse"
-            ></i>
-          </span>
+          <div
+            class="w-[112px] h-[112px] flex bg-primary place-items-center place-content-center rounded-full m-auto"
+          >
+            <font-awesome-icon
+              size="4x"
+              icon="fa-solid fa-arrows-left-right-to-line "
+              class="text-white"
+            />
+          </div>
           <h4 class="service-heading">Consentrated Liquidity</h4>
           <p class="text-muted">
             Users can choose the price ranges of their liquidity to earn more
@@ -24,12 +27,15 @@
           </p>
         </div>
         <div class="col-md-4">
-          <span class="fa-stack fa-4x">
-            <i class="fa-solid fa-circle fa-stack-2x text-primary"></i>
-            <i
-              class="fa-solid fa-arrow-up-wide-short fa-stack-1x fa-inverse"
-            ></i>
-          </span>
+          <div
+            class="w-[112px] h-[112px] flex bg-primary place-items-center place-content-center rounded-full m-auto"
+          >
+            <font-awesome-icon
+              size="4x"
+              icon="fa-solid fa-arrow-up-wide-short "
+              class="text-white"
+            />
+          </div>
           <h4 class="service-heading">Leveraged Liquidity</h4>
           <p class="text-muted">
             With the novel lending protocol, users can borrow assets from
@@ -37,12 +43,15 @@
           </p>
         </div>
         <div class="col-md-4">
-          <span class="fa-stack fa-4x">
-            <i class="fa-solid fa-circle fa-stack-2x text-primary"></i>
-            <i
-              class="fa-solid fa-money-bill-trend-up fa-stack-1x fa-inverse"
-            ></i>
-          </span>
+          <div
+            class="w-[112px] h-[112px] flex bg-primary place-items-center place-content-center rounded-full m-auto"
+          >
+            <font-awesome-icon
+              size="4x"
+              icon="fa-solid fa-money-bill-trend-up"
+              class="text-white"
+            />
+          </div>
           <h4 class="service-heading">Leveraged Trading</h4>
           <p class="text-muted">
             Uses can use assets like liquidity positions and deposits as the
