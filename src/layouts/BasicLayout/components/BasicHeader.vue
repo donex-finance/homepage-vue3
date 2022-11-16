@@ -20,7 +20,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand page-scroll" href="/home">Donex Finance</a>
+        <a class="navbar-brand page-scroll" href="#home">Donex Finance</a>
       </div>
 
       <!-- TODO: 用类似aave.com的动态效果代替header-bg.jpg -->
@@ -30,7 +30,7 @@
         <ul class="nav navbar-nav navbar-right">
           <!-- TODO: FAQ page -->
           <li>
-            <a class="page-scroll" href="/faq">FAQ</a>
+            <a class="page-scroll" href="#faq">FAQ</a>
           </li>
           <li>
             <a class="page-scroll btn btn-xl" href="#enterapp">Launch App</a>

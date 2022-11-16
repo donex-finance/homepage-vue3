@@ -1,6 +1,5 @@
 import type { RouteRecordRaw } from "vue-router";
 import BasicLayout from "@/layouts/BasicLayout/index.vue";
-import { baseStaticUrl } from "@/libs/utils";
 
 export const frameIn: Array<RouteRecordRaw> = [
   {
