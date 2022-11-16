@@ -20,7 +20,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand page-scroll" href="#header">Donex Finance</a>
+        <a class="navbar-brand page-scroll" href="/home">Donex Finance</a>
       </div>
 
       <!-- TODO: 用类似aave.com的动态效果代替header-bg.jpg -->
@@ -52,9 +52,9 @@
 
       <div class="absolute top-0 left-0 z-10 w-full h-full">
         <div id="header">
-          <div class="intro-text  bg-clip-text">
+          <div class="intro-text bg-clip-text">
             <div class="intro-heading">Donex Protocol</div>
-            <div class=" intro-lead-in">
+            <div class="intro-lead-in">
               Swap, earn, lend, borrow with the most capital efficiency.
             </div>
           </div>
@@ -82,7 +82,7 @@ export default {
     const datas = reactive({
       changeHeaderOn: 300,
       scrollY: 0,
-      src: baseStaticUrl("nebula.html"),
+      src: baseStaticUrl("pages/nebula.html"),
     });
 
     const scrollHandler = () => {
