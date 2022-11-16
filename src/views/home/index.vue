@@ -77,11 +77,11 @@
           <ul class="timeline">
             <li>
               <div class="timeline-image">
-                <img
+               <!--  <img
                   class="img-circle img-responsive"
                   src="@/assets/imgs/about/1.jpg"
                   alt=""
-                />
+                /> -->
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
@@ -95,11 +95,11 @@
             </li>
             <li class="timeline-inverted">
               <div class="timeline-image">
-                <img
+                <!-- <img
                   class="img-circle img-responsive"
                   src="@/assets/imgs/about/2.jpg"
                   alt=""
-                />
+                /> -->
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
@@ -113,11 +113,11 @@
             </li>
             <li>
               <div class="timeline-image">
-                <img
+                <!-- <img
                   class="img-circle img-responsive"
                   src="@/assets/imgs/about/3.jpg"
                   alt=""
-                />
+                /> -->
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
@@ -133,11 +133,11 @@
             </li>
             <li>
               <div class="timeline-image">
-                <img
+                <!-- <img
                   class="img-circle img-responsive"
                   src="@/assets/imgs/about/4.jpg"
                   alt=""
-                />
+                /> -->
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">

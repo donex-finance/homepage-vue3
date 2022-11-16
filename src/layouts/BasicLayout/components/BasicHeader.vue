@@ -30,7 +30,7 @@
         <ul class="nav navbar-nav navbar-right">
           <!-- TODO: FAQ page -->
           <li>
-            <a class="page-scroll" href="#faq">FAQ</a>
+            <a class="page-scroll" href="/faq">FAQ</a>
           </li>
           <li>
             <a class="page-scroll btn btn-xl" href="#enterapp">Launch App</a>
@@ -52,9 +52,9 @@
 
       <div class="absolute top-0 left-0 z-10 w-full h-full">
         <div id="header">
-          <div class="intro-text mask bg-clip-text">
-            <div class="text-transparent intro-heading">Donex Protocol</div>
-            <div class="text-transparent intro-lead-in">
+          <div class="intro-text  bg-clip-text">
+            <div class="intro-heading">Donex Protocol</div>
+            <div class=" intro-lead-in">
               Swap, earn, lend, borrow with the most capital efficiency.
             </div>
           </div>
