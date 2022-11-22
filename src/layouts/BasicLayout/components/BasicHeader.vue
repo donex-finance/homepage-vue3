@@ -20,7 +20,9 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand page-scroll" href="#home">Donex Finance</a>
+        <a class="navbar-brand page-scroll" href="#home">
+          <img src="@/assets/imgs/favicon.png" alt="" style="height: 28px"
+        /></a>
       </div>
 
       <!-- TODO: 用类似aave.com的动态效果代替header-bg.jpg -->
@@ -33,7 +35,9 @@
             <a class="page-scroll" href="#faq">FAQ</a>
           </li>
           <li>
-            <a class="page-scroll btn btn-xl" href="#enterapp">Launch App</a>
+            <a class="page-scroll btn btn-xl" href="https://app.donex.finance/"
+              >Launch App</a
+            >
           </li>
         </ul>
       </div>
